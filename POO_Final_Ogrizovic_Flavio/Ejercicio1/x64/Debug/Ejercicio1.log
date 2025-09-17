@@ -1,0 +1,14 @@
+﻿  AwesomeLibrary.cpp
+  Bullet.cpp
+  Enemy.cpp
+  EnemyManager.cpp
+  Entity.cpp
+  GameManager.cpp
+D:\Visual Studio Projects\Programación Orienta a Objetos\POO_Final_Ogrizovic_Flavio\Ejercicio1\GameManager.cpp(58,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio Projects\Programación Orienta a Objetos\POO_Final_Ogrizovic_Flavio\Ejercicio1\GameManager.cpp(61,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  HUD.cpp
+  Main.cpp
+  PlayerInput.cpp
+  Ship.cpp
+  Generating Code...
+  Ejercicio1.vcxproj -> D:\Visual Studio Projects\Programación Orienta a Objetos\POO_Final_Ogrizovic_Flavio\x64\Debug\Ejercicio1.exe
